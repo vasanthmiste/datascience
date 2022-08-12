@@ -1,0 +1,20 @@
+AI and ML
+. Introduction to Conginitive computing
+. Human/Natural intelligence vs Computer/Artificial Intellegence
+. Introduction to Machine learning 
+. Machine learning technique
+. Types of Intelligence or Learning and its characteristics
+	. Predictions
+	. Classification
+	. Recommendations
+	. Vision processing
+	. Language processing 
+		. Language Understanding 
+		. Language generation 
+	. Automated Learning/ Reinforced Learning
+
+. Deep Learning
+. Computer vision
+. Real world examples and applications of Artificial Intelligence
+. Advanced Learning technique - Transfer Learning
+. Machine Reasoning - Cognitive intelligence
